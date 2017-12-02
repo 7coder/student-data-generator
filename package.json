@@ -1,0 +1,21 @@
+{
+  "name": "Student Generator",
+  "version": "1.0.0",
+  "description": "Student data generator for insert to DB",
+  "main": "index.js",
+  "bin" : {
+    "studentdatagenerator" : "./bin/index"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords" : [
+      "mongodb" , "argv", "database", "tool", "generator"
+  ],
+  "author": "7coder (https://github.com/7coder)",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "yargs": "^10.0.3"
+  }
+}
