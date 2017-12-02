@@ -1,11 +1,12 @@
 {
-  "name": "Student Generator",
-  "version": "1.0.0",
+  "name": "student-data-generator",
+  "version": "1.0.7",
   "description": "Student data generator for insert to DB",
   "main": "index.js",
   "bin" : {
-    "studentdatagenerator" : "./bin/index"
+    "studentdatagenerator" : "./bin/studentdatagenerator.js"
   },
+  "preferGlobal": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

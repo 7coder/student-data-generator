@@ -10,7 +10,7 @@ This script is help you to generate some information about students. Available a
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install student-data-generator [-g]
+$ [sudo] npm install student-data-generator [-g]
 ```
 
 ### How to use
@@ -29,7 +29,7 @@ $ studentdatagenerator -i NUMBER_OF_DOCUMENTS -u 0 -p 0  --ip 0 --db DB_NAME --c
 
 ### Need help?
 ```sh
-$ studentdatagenerator -h
+$ studentdatagenerator --help
 ```
 
 License
