@@ -32,10 +32,13 @@ $ studentdatagenerator -i NUMBER_OF_DOCUMENTS -u 0 -p 0  --ip 0 --db DB_NAME --c
 $ studentdatagenerator --help
 ```
 
+### Source code
+Source code available on [GitHub Page](https://github.com/7coder)
+
 License
 ----
 
 MIT
 
 
-**Have Fun!**
+**Have Fun!** :v:
